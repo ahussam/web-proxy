@@ -16,8 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1- Create a new database and name it `proxy`
 
-2-Upload the proxy.sql using `phpmyadmin`.
-
+2- Upload the proxy.sql using `phpmyadmin`.
 
 3- Upload the Web-Proxy files on your server(htdocs directory).
 
@@ -33,11 +32,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Authors
 
 * **Abdullah Hussam** - [ahussam](https://github.com/ahussam)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Screenshots 
 
